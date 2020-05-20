@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(217, 215, 204);
+    line-height: 1.7;
+    color:rgba(113,104,102);
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+h1, h2,
+.h1,.h2{
+    color:#000;}
+h1,h2{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.menu{
+    border-bottom: 1px solid grey;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+    padding-inline-start: 0px;
+}
+.name{
+    text-align: center;
+    font-family: imact,sans-serif;
+    font-style: italic;
+    font-size: 100px;
+    color: rgba(113,104,102);
+}
+.text{
+    padding: 5px;
+    border: 3px rgb(85, 76, 63);
+    border-style: dotted;
+    background-color: rgb(175, 164, 150);
+}
+.img-fluid{
+    width:40%;
+    height: auto;
+}
+.paint{
+    background-color: rgb(175,164,150);
+    font-style: italic;
+    text-align: right;
+}
+.caption{
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 0.2em;
+    font-size: 12px;
+    padding: 7px,10px;
+    color: olivedrab;
+    display: inline-block;
+}
